@@ -22,6 +22,8 @@
 
 </div>
 
+<hr>
+
 👩🏻‍💻 About Me
 
 CSE student at IGDTUW interested in software development, AI/ML, DSA, and full-stack development.
@@ -30,11 +32,15 @@ Currently learning C++, Python, web development, and machine learning through pr
 
 I enjoy building practical applications and learning by experimenting with different technologies.
 
+<hr>
+
 🛠️ Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,html,css,javascript,git,github,vscode,androidstudio,firebase&perline=6" />
 </div>
+
+<hr>
 
 🚀 Featured Projects
 
@@ -74,6 +80,8 @@ Tech: Python · Pandas · NumPy · Matplotlib · Machine Learning · NLP
 <a href="https://github.com/yashikasingh1307/Fake-News-Detection-Machine-Learning-Model"><img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
+<hr>
+
 🏆 Highlights
 
 Recognition
@@ -92,6 +100,8 @@ Built an AI-assisted food waste management application
 
 Explored practical NLP and classification workflows
 
+<hr>
+
 💻 Coding Profile
 
 <div align="center">
@@ -103,6 +113,8 @@ Explored practical NLP and classification workflows
 <img src="https://leetcard.jacoblin.cool/YashikaSingh_1311?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Statistics"/>
 
 </div>
+
+<hr>
 
 📊 GitHub Analytics
 
@@ -118,6 +130,8 @@ Explored practical NLP and classification workflows
 
 </div>
 
+<hr>
+
 📈 Contribution Activity
 
 <div align="center">
@@ -125,6 +139,8 @@ Explored practical NLP and classification workflows
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashikasingh1307&bg_color=0D0B1F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity"/>
 
 </div>
+
+<hr>
 
 🐍 Contribution Snake
 
@@ -134,9 +150,13 @@ Explored practical NLP and classification workflows
 
 </div>
 
+<hr>
+
 🌱 Currently Learning
 
 DSA · C++ · Python · Machine Learning · Full-Stack Development
+
+<hr>
 
 🤝 Connect
 
